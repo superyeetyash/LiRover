@@ -72,6 +72,16 @@ After a failed rocket idea, we settled on an RC car with a LiDAR sensor attached
 
 ---
 
+<picture>
+  <img alt="PCB diagram" src="images/pcb.webp" width="400">
+</picture>
+
+<picture>
+ <img alt="CAD model" src="images/cad.png" width="400">
+</picture>
+
+---
+
 ## Parts List
 
 Full sheet with more detail/tracking: [LiROS Stardance Materials Sheet](https://docs.google.com/spreadsheets/d/1sdS0OlM2zuOV2pPiHsO394o92J3veeRa5HE5x8mnFqY/edit?gid=0#gid=0)
