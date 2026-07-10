@@ -1,0 +1,26 @@
+Item,Link,Price,Final Price,Notes
+Arduino Uno R3 (Elegoo Super Starter Kit),https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4,$44.99,$48.36,confirmed + 7.5% tax
+Arduino to USB-A Cable,https://www.amazon.com/Usb-Cable-A-B-For-Arduino/dp/B01JOQ2G3Y,$5.99,$6.44,estimate + 7.5% tax
+"Assorted wires (M-M, M-F, F-F)",https://us.elegoo.com/products/elegoo-multicolored-dupont-wire-kit,$6.59,$6.59,"confirmed, Elegoo site"
+Raspberry Pi Zero 2 W,https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/,$15.00,$15.00,"confirmed, official"
+Raspberry Pi Pico W,https://www.raspberrypi.com/products/raspberry-pi-pico/,$6.00,$6.00,"confirmed, official"
+"LiDAR (Benewake TF03-180, used, UART)",https://www.ebay.com/itm/355587525411,$82.00,$82.00,"your listing expired, this is a reference"
+SparkFun 9DoF IMU Breakout (ISM330DHCX + MMC5983MA),https://www.digikey.com/en/products/detail/sparkfun-electronics/19895/16672285,$45.74,$45.74,kept as given
+Adafruit BMP388 Pressure Sensor,https://www.digikey.com/en/products/detail/adafruit-industries-llc/3966/9685338,$9.95,$9.95,kept as given
+Adafruit MicroSD SPI/SDIO Breakout,https://www.digikey.com/en/products/detail/adafruit-industries-llc/4682/12822319,$3.50,$3.50,kept as given
+DigiKey shipping + tax + tariff,-,$13.08,$13.08,$8.49 ship + $4.31 tax + $0.28 tariff
+MicroSD Card (Samsung PRO Endurance 32GB),https://www.amazon.com/Samsung-Endurance-32GB-Micro-Adapter/dp/B07B98GXQT,$10.99,$11.81,confirmed MSRP + 7.5% tax
+Pololu 5V Step-Up Regulator (U1V11F5),https://www.pololu.com/product/2562,$7.95,$7.95,kept as given
+Pololu shipping & handling,-,$6.95,$6.95,kept as given
+"Battery holder (2-pack, 8x AA, 12V)",https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Double-batteries/dp/B07KVHMQRH,$16.29,$17.51,confirmed via Newegg + 7.5% tax
+Continuous rotation servo,https://www.amazon.com/Wishiot-TD-8135MG-Digital-Waterproof-500%CE%BCs-2500%CE%BCs/dp/B08JCVLSCK,$28.94,$31.11,estimate + 7.5% tax
+Motor driver (TB6612FNG),https://www.amazon.com/DIANN-TB6612FNG-Stepper-Driver-Module/dp/B0BLRSWTLM,$8.39,$9.02,estimate + 7.5% tax
+"Bluetooth module (HC-05, for Dabble)",https://www.amazon.com/HiLetgo-Wireless-Bluetooth-Transceiver-Arduino/dp/B071YJG8DR,$10.28,$11.05,estimate + 7.5% tax
+"Gear motors (2-pack, N30 micro, 12V)",https://www.amazon.com/BRINGSMART-Micro-Gearbox-Diameter-Reduction/dp/B0GWQVLZFF,$17.58,$18.90,estimate + 7.5% tax
+Gear motor wheels,https://www.amazon.com/ThtRht-Motor-Wheels-Replacement-Smart/dp/B0CG1C7T8J,$10.00,$10.75,estimate + 7.5% tax
+"Caster wheel (360 deg, best judgment)",https://www.amazon.com/Heavy-Rubber-Caster-Wheel-Swiveling/dp/B004672ZGA,$17.50,$18.81,"best guess, not confirmed + 7.5% tax"
+"Batteries (AA, pack)",https://www.amazon.com/Energizer-Batteries-Pack-Double-Alkaline/dp/B0D51LH5Y5,$12.00,$12.90,estimate + 7.5% tax
+DROK LM2596 buck converter,https://www.amazon.com/DROK-Display-LM2596-Buck-Converter/dp/B019RKVMKU,$9.00,$9.67,"estimate, midpoint of $8-10 + 7.5% tax"
+,,,,
+Subtotal before tax,-,$388.71,-,-
+GRAND TOTAL,-,-,$403.11,-
