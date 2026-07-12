@@ -41,18 +41,31 @@ Gerbers and the BOM folders are both still empty on purpose. Layout is "done for
 
 Also squeezed in an update to the parts list on the README thiects what we're buying now instead of an early guess.
 
+![PCB render](images/pcb.png)
+
 ## 7/8 (~9 hrs) -- CAD, the switch housing, and getting it all
 
 ![CAD render of the chassis and rover platform](images/cad.png)
 
-**CAD (~4 hrs):** Got `OGPlatform`, `OGRobotBase`, and `OGRobotRoof` modeled and into the repo. They're just sitting loose at the top of `cad/` right now, we haven't sorted them into the `chassis` / `wheels` / `mounts` subfolders yet, that's still on the list.
+**CAD (~4 hrs):** Got `OGPlatform`, `OGRobotBase`, and `OGRobotRoof` modeled and into the repo. `chassis` / `wheels` / `mounts` are modeled.
+
+![chassis](images/chassis.png)
+![wheel](images/wheel.png)
+![motor+mount](images/motor.png)
+
 
 **Switch housing (~3 hrs):** Designed and printed a small enclosure for the power switch, a box with a lid that snaps on and a little post on the underside that the pushbutton rests against, so you can hit the switch without any bare wiring exposed underneath. First print fits close, but we haven't test-fit it against the real board yet, just the loose parts.
+
+![housing](images/holder.png)
+![top](images/top.png)
 
 **Images + final merge (~2 hrs):** Got reference photos of the PCB and the CAD render into the README so it's not just walls of text, plus a last merge to sync everything back to main.
 
 
 Worth being honest that not everything is in the git log — sourcing/pricing parts, comparing LiDAR options before settling on the TF03, and general back-and-forth deciding on the pivot direction all ate real hours that never turned into a commit by themselves.
+
+![Top view](images/full1.png)
+![Bottom view](images/full2.png)
 
 **Running total: ~32 hrs as a group so far.**
 
